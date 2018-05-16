@@ -1,0 +1,24 @@
+body{
+	border-bottom: yellow;
+}
+img{
+	width: 100%;
+}
+.header {
+	background-image: url(../image/progwall.jpg);
+	height: 375px;
+	background-size: cover;
+}
+.project{
+	border: solid 8px rgb(204, 229, 80);
+	margin: 5px 15px;/*1st number is top and bottom, 2nd number is left and right */
+}
+.project p{
+	display: 
+	width: 10%;
+}
+.project img{
+	display: inline-block;
+	width: 25%;
+	height: 125px;
+}
