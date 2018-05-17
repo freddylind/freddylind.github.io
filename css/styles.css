@@ -3,6 +3,7 @@ body{
 }
 img{
 	width: 100%;
+	border-radius: 50px;
 }
 .header {
 	background-image: url(../image/progwall.jpg);
@@ -12,6 +13,7 @@ img{
 .project{
 	border: solid 8px rgb(204, 229, 80);
 	margin: 5px 15px;/*1st number is top and bottom, 2nd number is left and right */
+	border-radius: 10px;
 }
 .project p{
 	display: 
@@ -21,4 +23,5 @@ img{
 	display: inline-block;
 	width: 25%;
 	height: 125px;
+
 }
