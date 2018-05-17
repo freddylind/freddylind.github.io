@@ -23,5 +23,11 @@ img{
 	display: inline-block;
 	width: 25%;
 	height: 125px;
-
+}
+.selector {
+  background-color: rgba(255, 255, 255, 0);
+  border: 2px solid #47525E;
+  border-radius: 5px;
+  width: 559.24px;
+  height: 66.11px;
 }
