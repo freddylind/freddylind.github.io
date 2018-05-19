@@ -1,12 +1,13 @@
 body{
 	border-bottom: yellow;
+	background-attachment:
 }
 img{
 	width: 100%;
 	border-radius: 50px;
 }
 .header {
-	background-image: url(../image/progwall.jpg);
+	background-image: url(../img/progwall.jpg);
 	height: 375px;
 	background-size: cover;
 }
@@ -24,10 +25,14 @@ img{
 	width: 25%;
 	height: 125px;
 }
-.selector {
+.border {
   background-color: rgba(255, 255, 255, 0);
   border: 2px solid #47525E;
   border-radius: 5px;
   width: 559.24px;
   height: 66.11px;
+}
+.select{
+	font: 30px;
+	color: rgb(244, 121, 34);
 }
